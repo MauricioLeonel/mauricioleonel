@@ -8,9 +8,28 @@
 ### 🌱 Finalizando mi cursada con ![SoyHenry](https://www.soyhenry.com/)
 Bootcamp de capacitación intensiva en el que vas a aprender de computación y desarrollo web desde el principio hasta el final con JavaScript/React/Readux/Nodejs/Express
 
-### 💻 ultimo proyecto realizado
+### 💻 Ultimo proyecto realizado
 [Clim-app](https://clim-app2.herokuapp.com/) / Aplicación de clima ☁️
 [Paises](https://www.linkedin.com/posts/mauricio-barrios-webfullstack_henry-react-redux-ugcPost-6849883651467952128-VlML) / Aplicación para buscar paises y agregar actividades 🌎
+
+###                            \\\\\\\\\\\\
+###                          \\\\\\\\\\\\\\\
+###  -----------,-|           |C>   // )\\\\|
+###           ,','|          /    || ,'/////|
+###---------,','  |         (,    ||   /////
+###         ||    |          \\  ||||//''''|
+###         ||    |           |||||||     _|
+###         ||    |______      `````\____/ \
+###         ||    |     ,|         _/_____/ \
+###         ||  ,'    ,' |        /          |
+###         ||,'    ,'   |       |         \  |
+###_________|/    ,'     |      /           | |
+###_____________,'      ,',_____|      |    | |
+###             |     ,','      |      |    | |
+###             |   ,','    ____|_____/    /  |
+###             | ,','  __/ |             /   |
+###_____________|','   ///_/-------------/   |
+###              |===========,'
 
 ###  📫 Puedes encontrarme en:
 -[Likendin](https://www.linkedin.com/in/mauricio-barrios-webfullstack/)
