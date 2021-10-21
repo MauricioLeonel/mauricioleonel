@@ -8,7 +8,7 @@
 ### 🔭 Actualmente estoy trabajando con un grupo sobre una APP de citas en [React Native](https://reactnative.dev/) llamada McLovIT 💖💖💖💖
 
 
-### 🌱 Finalizando mi cursada con ![SoyHenry](https://www.soyhenry.com/)
+### 🌱 Finalizando mi cursada con [SoyHenry](https://www.soyhenry.com/)
 Bootcamp de capacitación intensiva en el que vas a aprender de computación y desarrollo web desde el principio hasta el final con JavaScript/React/Readux/Nodejs/Express
 
 ### 💻 Ultimo proyecto realizado
