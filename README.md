@@ -1,5 +1,5 @@
 
-![](https://i.pinimg.com/originals/5d/45/0c/5d450cd11bc125fe8bd2e0214110fb36.gif)
+![](https://github.com/MauricioLeonel/mauricioleonel/blob/main/MauricioBarrios.gif)
 
 ### ¡Hola! Soy Mauricio Barrios ✨ 
 💻 Técnico en infórmatica y programador. Me gustan desarrollar aplicaciones web con [React](https://es.reactjs.org/) / [Redux](https://redux.js.org/) / [NodeJS](https://nodejs.org/es/) / [ExpressJS](https://expressjs.com/es/) / [PostgreSQL](https://www.postgresql.org/) / [JavaScript](https://www.javascript.com/) que puedan ser sencillas, faciles de usar y construir.
