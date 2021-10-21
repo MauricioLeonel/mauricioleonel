@@ -11,7 +11,8 @@ Bootcamp de capacitación intensiva en el que vas a aprender de computación y d
 ### 💻 Ultimo proyecto realizado
 [Clim-app](https://clim-app2.herokuapp.com/) / Aplicación de clima ☁️
 [Paises](https://www.linkedin.com/posts/mauricio-barrios-webfullstack_henry-react-redux-ugcPost-6849883651467952128-VlML) / Aplicación para buscar paises y agregar actividades 🌎
-<div>
+
+                             \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
   -----------,-|           |C>   // )\\\\|
@@ -30,7 +31,8 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
-  </div>
+
+  
 
 ###  📫 Puedes encontrarme en:
 -[Likendin](https://www.linkedin.com/in/mauricio-barrios-webfullstack/)
