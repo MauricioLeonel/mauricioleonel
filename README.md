@@ -1,16 +1,17 @@
-### Hi there 👋
+### ¡Hola! Soy Mauricio Barrios ✨ 
+💻 Técnico en infórmatica y programador. Me gustan desarrollar aplicaciones web con [React](https://es.reactjs.org/) / [Redux](https://redux.js.org/) / [NodeJS](https://nodejs.org/es/) / [ExpressJS](https://expressjs.com/es/) / [PostgreSQL](https://www.postgresql.org/) / [JavaScript](https://www.javascript.com/) que puedan ser sencillas, faciles de usar y construir.
 
-<!--
-**MauricioLeonel/mauricioleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔭 Actualmente estoy trabajando con un grupo sobre una APP de citas en [React Native](https://reactnative.dev/) llamada McLovIT 💖💖💖💖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 Finalizando mi cursada con ![SoyHenry](https://www.soyhenry.com/)
+Bootcamp de capacitación intensiva en el que vas a aprender de computación y desarrollo web desde el principio hasta el final con JavaScript/React/Readux/Nodejs/Express
+
+### 💻 ultimo proyecto realizado
+[Clim-app](https://clim-app2.herokuapp.com/) / Aplicación de clima ☁️
+[Paises](https://www.linkedin.com/posts/mauricio-barrios-webfullstack_henry-react-redux-ugcPost-6849883651467952128-VlML) / Aplicación para buscar paises y agregar actividades 🌎
+
+###  📫 Puedes encontrarme en:
+-[Likendin](https://www.linkedin.com/in/mauricio-barrios-webfullstack/)
+-[Gmail](mauriciobarrios02@gmail.com)
