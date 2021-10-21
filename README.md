@@ -14,4 +14,4 @@ Bootcamp de capacitación intensiva en el que vas a aprender de computación y d
 
 ###  📫 Puedes encontrarme en:
 -[Likendin](https://www.linkedin.com/in/mauricio-barrios-webfullstack/)
--[Gmail](mauriciobarrios02@gmail.com)
+
