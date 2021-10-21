@@ -2,7 +2,7 @@
 
 ![](https://github.com/MauricioLeonel/mauricioleonel/blob/main/MauricioBarrios.gif)
 
-💻 Técnico en infórmatica y programador. Me gustan desarrollar aplicaciones web con [React](https://es.reactjs.org/) / [Redux](https://redux.js.org/) / [NodeJS](https://nodejs.org/es/) / [ExpressJS](https://expressjs.com/es/) / [PostgreSQL](https://www.postgresql.org/) / [JavaScript](https://www.javascript.com/) que puedan ser sencillas, faciles de usar y construir.
+💻 Técnico en informática y programador. Me gustan desarrollar aplicaciones web con [React](https://es.reactjs.org/) / [Redux](https://redux.js.org/) / [NodeJS](https://nodejs.org/es/) / [ExpressJS](https://expressjs.com/es/) / [PostgreSQL](https://www.postgresql.org/) / [JavaScript](https://www.javascript.com/) que puedan ser sencillas, faciles de usar y construir.
 
 
 ### 🔭 Actualmente estoy trabajando con un grupo sobre una APP de citas en [React Native](https://reactnative.dev/) llamada McLovIT 💖💖💖💖
