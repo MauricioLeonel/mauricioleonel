@@ -5,10 +5,11 @@
 💻 Técnico en informática y programador. Me gustan desarrollar aplicaciones web con [React](https://es.reactjs.org/) / [Redux](https://redux.js.org/) / [NodeJS](https://nodejs.org/es/) / [ExpressJS](https://expressjs.com/es/) / [PostgreSQL](https://www.postgresql.org/) / [JavaScript](https://www.javascript.com/) que puedan ser sencillas, fáciles de usar y construir.
 
 
-### 🔭 Actualmente estoy trabajando con un grupo sobre una APP de citas con [React Native](https://reactnative.dev/) llamada McLovIT 💖💖💖💖
+### 🔭 Actualmente terminamos de realizar una aplicación con un grupo sobre una APP de citas con [React Native](https://reactnative.dev/) llamada McLovIT 💖💖💖💖
+Presentación de la app: https://www.youtube.com/watch?v=EKYdM2UTBuM
 
 
-### 🌱 Finalizando mi cursada con [SoyHenry](https://www.soyhenry.com/)
+### 🌱 Cursada terminada con [SoyHenry](https://www.soyhenry.com/)
 Bootcamp de capacitación intensiva en el que vas a aprender de computación y desarrollo web desde el principio hasta el final con JavaScript/React/Readux/Nodejs/Express
 
 ### 💻 Ultimos proyectos realizado
