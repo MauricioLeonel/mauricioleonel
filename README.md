@@ -10,7 +10,8 @@ Presentación de la app: https://www.youtube.com/watch?v=EKYdM2UTBuM
 
 
 ### 🌱 Cursada terminada con [SoyHenry](https://www.soyhenry.com/)
-Bootcamp de capacitación intensiva en el que vas a aprender de computación y desarrollo web desde el principio hasta el final con JavaScript/React/Readux/Nodejs/Express
+Bootcamp de capacitación intensiva en el que vas a aprender de computación y desarrollo web desde el principio hasta el final con JavaScript/React/Redux/Nodejs/Express
+- ahora estoy aprendiendo a integrar base de datos no relacionales con MongoDB, encriptación de datos y manejo de Token para controlar el consumo de la APIRest
 
 ### 💻 Ultimos proyectos realizado
 [Clim-app](https://clim-app2.herokuapp.com/) / Aplicación de clima ☁️ [ClimappGit](https://github.com/MauricioLeonel/Clim-app) 
